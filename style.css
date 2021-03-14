@@ -1,0 +1,29 @@
+.text-center{
+    background-color: pink;
+}
+.footer-container{
+    text-align: center;
+
+}
+.contact-us img{
+    height: 20px;
+    font-weight: 20px;
+}
+.gmail-pic img{
+    height: 20px;
+    font-weight: 20px;
+}
+.phone-pic img{
+    height: 20px;
+    font-weight: 20px;
+}
+.work{
+    padding: 50px 50px ;
+    display: flex;
+    background-color:pink;
+}
+.half-width{
+    height: 200px;
+  width: 50%;
+  background-color:pink;
+}
